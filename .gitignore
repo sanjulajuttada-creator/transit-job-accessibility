@@ -1,16 +1,10 @@
-# Large data files
-osm/
-lodes/
-shapefiles/
-*.gpkg
-*.zip
-*.csv.gz
-
-# Python / Jupyter junk
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
-
-census/
 gtfs/
+lodes/
+census/
+shapefiles/
+osm/
+*.zip
+*.gpkg
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
